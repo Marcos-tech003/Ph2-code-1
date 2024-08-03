@@ -1,0 +1,8 @@
+{
+    "transactions": [
+      { "id": 1, "date": "2023-11-25", "description": "Salary", "amount": 1000, "category": "income" },
+      { "id": 2, "date": "2023-11-26", "description": "Rent", "amount": -500, "category": "expense" },
+      { "id": 3, "date": "2023-11-27", "description": "Groceries", "amount": -150, "category": "expense" }
+    ]
+  }
+  
